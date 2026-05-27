@@ -3,27 +3,19 @@
 ## Overview
 This project analyzes shopping mall transactions in Istanbul using SQL and Power BI to uncover customer behavior, spending patterns, and sales performance insights.
 
----
-
-## Business Problem
+Business Problem
 Retail businesses need insights into customer shopping behavior and purchasing trends to improve revenue growth, customer satisfaction, and operational efficiency.
 
----
-
-## Dataset Information
+Dataset Information
 - Source: Shopping Mall Transactions
 - Transactions: 99,457
 - Period: 2021 – 2023
 
----
-
-## Tools Used
+Tools Used
 - Power BI
 - SQL
 - DAX
 - Excel
-
----
 
 ## Key Analysis
 - Revenue trends over time
@@ -33,8 +25,6 @@ Retail businesses need insights into customer shopping behavior and purchasing t
 - Product category performance
 - Holiday vs Regular day sales
 
----
-
 ## Key Findings
 - Mall of Istanbul generated the highest revenue
 - Cash was the most preferred payment method
@@ -42,28 +32,6 @@ Retail businesses need insights into customer shopping behavior and purchasing t
 - Clothing category generated the highest revenue
 - Over 80% of revenue came from regular days
 
----
-
-## Dashboard Features
-- Interactive filters
-- Revenue KPIs
-- Monthly sales trends
-- Shopping mall comparison
-- Category analysis
-- Payment analysis
-
----
-
-## Skills Demonstrated
-- Data Cleaning
-- SQL Analysis
-- Dashboard Design
-- DAX Calculations
-- Business Intelligence
-- Data Visualization
-- Storytelling with Data
-
----
 
 ## Author
 Ezekiel David Anuoluwapo# mallpulse-istanbul-shopping-analysis
