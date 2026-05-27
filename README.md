@@ -32,6 +32,3 @@ Tools Used
 - Clothing category generated the highest revenue
 - Over 80% of revenue came from regular days
 
-
-## Author
-Ezekiel David Anuoluwapo# mallpulse-istanbul-shopping-analysis
